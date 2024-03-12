@@ -1,7 +1,7 @@
-// C program to swap two variables
+// C program to swapping of two variables
 #include <stdio.h>
 
-// Driver code
+// Driver code is writer
 int main()
 {
 	int x, y;
